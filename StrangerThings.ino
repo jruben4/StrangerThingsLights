@@ -13,9 +13,6 @@ const char* mqtt_username = "yourMQTTusername";
 const char* mqtt_password = "yourMQTTpassword";
 const int mqtt_port = 1883;
 
-
-
-/**************************** FOR OTA **************************************************/
 #define SENSORNAME "StrangerThings" //change this to whatever you want to call your device
 
 /************* MQTT TOPICS (change these topics as you wish)  **************************/
